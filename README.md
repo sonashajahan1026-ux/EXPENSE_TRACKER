@@ -1,10 +1,10 @@
-Expense Tracker:
+=>Expense Tracker:
 A responsive Expense Tracker Web Application built using HTML, Bootstrap, and JavaScript that allows users to manage and monitor their daily expenses efficiently.
 
-Project Overview:
+=>Project Overview:
 The Expense Tracker helps users record, categorize, and track expenses in real-time. The application provides an interactive interface where users can add expenses, view total spending, and manage records with persistent data storage using browser local storage.
 
-Features:
+=>Features:
 ✅ Add new expenses
 
 ✅ Delete expenses
@@ -19,7 +19,7 @@ Features:
 
 ✅ Dynamic UI updates using JavaScript DOM manipulation
 
-Technologies Used:
+=>Technologies Used:
 1.HTML5
 
 2.CSS3
@@ -30,7 +30,11 @@ Technologies Used:
 
 5.Browser Local Storage
 
-Learning Outcomes:
+=>Screenshots:
+![Add Expense](/add_expense.png)
+![Delete Expense](/delete_expense.png)
+
+=>Learning Outcomes:
 1.Implemented DOM manipulation using JavaScript.
 
 2.Practiced responsive UI design using Bootstrap.
@@ -39,7 +43,7 @@ Learning Outcomes:
 
 4.Strengthened frontend development and user interaction handling.
 
-Future Enhancements:
+=>Future Enhancements:
 1.Expense analytics using charts
 
 2.Edit expense functionality
